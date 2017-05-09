@@ -1,8 +1,6 @@
 
 <p align="center">
-
 <img src="https://github.com/alivcor/necastra/blob/master/necastra_logo.png"width="200px"/>
-
 </p>
 
 Neural Network Based Camera-like Style Transfer 

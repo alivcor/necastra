@@ -4,11 +4,12 @@
 Neural Network Based Camera-like Style Transfer 
 
 [![Build Status](https://travis-ci.org/fchollet/keras.svg?branch=master)](https://github.com/alivcor/necastra)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/alivcor/necastra/blob/master/LICENSE)
+[![Build Status](https://img.shields.io/pypi/status/Django.svg)](https://github.com/alivcor/necastra)
+[![license](https://img.shields.io/badge/license-closed--source-%23f209e2.svg)](https://github.com/alivcor/necastra/blob/master/LICENSE)
 
 ## Welcome
 
-<img src="https://github.com/alivcor/necastra/blob/master/necastra_logo.png"/>
+<img src="https://github.com/alivcor/necastra/blob/master/necastra_logo.png" style="display: block; margin: 0 auto;" align="middle"/>
 
 Necastra is a neural network based engine that applies style transfer methods to generate images that look like real camera captured photographs. 
 

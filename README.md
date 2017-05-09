@@ -10,7 +10,7 @@ Neural Network Based Camera-like Style Transfer
 ## Welcome
 <p align="center">
 <center>
-<img src="https://github.com/alivcor/necastra/blob/master/necastra_logo.png" style="display: block; margin: 0 auto;" align="middle"/>
+<img src="https://github.com/alivcor/necastra/blob/master/necastra_logo.png" align="middle"/>
 </center>
 </p>
 Necastra is a neural network based engine that applies style transfer methods to generate images that look like real camera captured photographs. 

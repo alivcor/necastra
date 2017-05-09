@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://github.com/alivcor/necastra/blob/master/necastra_logo.png"/>
 </p>
-
+<br/>
 Neural Network Based Camera-like Style Transfer 
 
 [![Build Status](https://travis-ci.org/fchollet/keras.svg?branch=master)](https://github.com/alivcor/necastra)
